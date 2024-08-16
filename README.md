@@ -1,6 +1,6 @@
-# Quantum Tech Research Lab 
+# superquantum
 
-Welcome to the **Quantum Tech Research Lab**—where the future meets the retro era! 🌌✨ Step into a world of quantum mechanics, superposition, and entanglement, all wrapped in a nostalgic '80s vibe. We're pioneering the quantum frontier with cutting-edge research, futuristic algorithms, and a dash of neon glow.
+welcome to the our research lab.
 
 
 ## Mission
