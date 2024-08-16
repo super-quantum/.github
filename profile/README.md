@@ -16,6 +16,6 @@ to explore the uncharted territories of quantum computing and quantum technologi
 
 - **email**: qubitcoin@superquantum.io
 - **website**: superquantum.io
-- **follow us**: in progress
+- **follow us**: https://superquantum.medium.com/
 
 may the qubits be with you
