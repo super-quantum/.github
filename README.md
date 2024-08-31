@@ -5,7 +5,7 @@ welcome to the our research lab.
 
 ## mission
 
-to explore the uncharted territories of quantum computing and quantum technologies. Our mission is to bridge the gap between classical and quantum paradigms.
+to explore the uncharted territories of quantum computing and quantum technologies. our mission is to bridge the gap between classical and quantum paradigms.
 
 ##  projects
 
